@@ -3,7 +3,6 @@
 C
 C
 
-        parameter (ndim =27)
         parameter (nmax = 25000)
         parameter (nparam=500)
         parameter (nvib=9)
